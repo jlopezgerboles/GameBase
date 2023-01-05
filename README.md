@@ -9,9 +9,7 @@ Canvas system (the window for our game. Includes the window, the render and link
 Render system (the inners of the OpenGL)
 Audio system (inlcudes sound and music, implemented through the SDL_mixer library)
 Font system (the system that allows the text to be displayed in the game)
+Input system (recognition of keys)
 
-## Next milestones in the GameBase
-|Date||Area||What|
-|-||-||-|
-|01.10.2022||Visuals||1. Implement Multiple renderers.|
-|31.10.2022||Audio||1. Implement multiple background music channels.|
+## Milestone
+Implement window rendering a rotating cube and displaying text in screen while playing music. 
